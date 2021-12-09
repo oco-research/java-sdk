@@ -13,7 +13,7 @@ import java.net.URI;
 import java.util.Map;
 import java.util.List;
 
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-12-09T18:15:51.969607Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-12-09T18:22:22.169481Z[Etc/UTC]")
 public class OAuth implements Authentication {
   private String accessToken;
 

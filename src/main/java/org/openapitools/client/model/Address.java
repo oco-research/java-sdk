@@ -20,7 +20,7 @@ import java.io.IOException;
 /**
  * Address
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-12-09T18:15:51.969607Z[Etc/UTC]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2021-12-09T18:22:22.169481Z[Etc/UTC]")
 public class Address {
   public static final String SERIALIZED_NAME_STREET = "street";
   @SerializedName(SERIALIZED_NAME_STREET)
